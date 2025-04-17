@@ -4,7 +4,6 @@ from phi.tools.duckduckgo import DuckDuckGo
 from phi.model.groq import Groq
 import openai
 
-
 import os
 from dotenv import load_dotenv
 load_dotenv()
